@@ -10,6 +10,7 @@ body
 }
 #post {
     background: white;
+    padding: 1em;
 }
 #cabecera {
     background-color: #37488b;
